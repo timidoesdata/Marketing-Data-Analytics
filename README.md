@@ -8,6 +8,8 @@ Bellabeat was founded in 2013 by Urška Sršen and Sando Mur, crafting cutting-e
 - Sando Mur:  Cofounder.
 - Marketing team
 
+![image](https://github.com/user-attachments/assets/3b3a9582-0477-47e8-a26b-0a54025fb181)
+
 ## Ask Phase
 **Business Task/Goal:**
 - Understand how customers use Bellabeat smart devices by identifying trends such as usage pattern, user behaviour, user demographic, features they mostly engage with, when they use their devices and more. 
