@@ -1,4 +1,4 @@
-# Marketing-Data-Analytics
+# Marketing-Data-Analytics (SQL, Excel & PowerBI)
 As a junior data analyst on the Bellabeat marketing team, I got into some smart device data to drive strategic marketing decisions, and provide invaluable insights to the Bellabeat executive team using the structured roadmap of the Ask, Prepare, Process, Analyze, Share, and Act phases.
 
 ## Meet Bellabeat
